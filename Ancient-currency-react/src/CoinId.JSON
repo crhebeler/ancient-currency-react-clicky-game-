@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Aureus",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Aureus.jpg?raw=true"
+    },
+    {
+        "id": 2,
+        "name": "Coin-China",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/China.jpg?raw=true"
+    },
+    {
+        "id": 3,
+        "name": "Egypt-Coin",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Egypt.jpg?raw=true"
+    },
+    {
+        "id": 4,
+        "name": "Greek",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Greek.jpg?raw=true"
+    },
+    {
+        "id": 5,
+        "name": "India",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/India.jpg?raw=true"
+    },
+    {
+        "id": 6,
+        "name": "Japan",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Japan.jpg?raw=true"
+    },
+    {
+        "id": 7,
+        "name": "Myan",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Myan.jpg?raw=true"
+    },
+    {
+        "id": 8,
+        "name": "Pirate",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Pirate.jpg?raw=true"
+    },
+    {
+        "id": 9,
+        "name": "Roman",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Roman.jpg?raw=true"
+    },
+    {
+        "id": 10,
+        "name": "Solidus",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Solidus.jpg?raw=true"
+    },
+    {
+        "id": 11,
+        "name": "Spain",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Spain.jpg?raw=true"
+    },
+    {
+        "id": 12,
+        "name": "Stone",
+        "image": "https://github.com/crhebeler/ancient-currency-react-clicky-game-/blob/master/Ancient-currency-react/public/assets/Stone.jpg?raw=true"
+    }
+]
