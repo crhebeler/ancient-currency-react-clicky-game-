@@ -3,14 +3,14 @@ import "./Main.css";
 
 
 const Main = props => (
-  <div className="card" onClick={() => props.clickedImage(props.id)}>
-      <div className="img-container">
-          <img alt={props.name} src={props.image} />
+
+    <div className="card" onClick={() => props.clickedImage(props.id)}>
+            
+    <img className="card-img-top img-fluid" src={props.imgSource} alt={props.name} />
+
+ 
       </div>
-  </div>
-)
-
-
+);
 
 export default Main;
 
